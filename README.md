@@ -7,6 +7,7 @@
 
 ## 🔥 **What I’m Working On**
 🚀 **[Solana Trade Tracker (Rust + Blockchain)](https://github.com/GH05T-97/solana-whale-bot)** – Real-time blockchain trade tracking.
+
 ⚡ **[HFT Trading Engine (Rust)](Coming soon!)** – Low-latency order execution engine.
 
 ---
