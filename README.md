@@ -23,7 +23,6 @@
 
 ---
 
----
 
 ## ✍️ **Latest Articles & Insights**
 📌 **["The Cracked Engineer's Guide to JavaScript: Mechanics, Magic and Misconceptions"](https://dev.to/gho5t_97/the-cracked-engineers-guide-to-javascript-mechanics-magic-and-misconceptions-28jm)**
