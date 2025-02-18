@@ -36,8 +36,8 @@
 
 📩 **Reach out for collaboration, consulting, or career opportunities.**
 
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/zubairmaqsood)
-🔗 **Dev.to:** [Your Dev.to](https://dev.to/gho5t_97)
+🔗 **LinkedIn:** [LinkedIn](https://linkedin.com/in/zubairmaqsood)
+🔗 **Dev.to:** [Dev.to](https://dev.to/gho5t_97)
 
 ---
 
