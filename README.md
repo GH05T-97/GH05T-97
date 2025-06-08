@@ -1,4 +1,4 @@
-# 🚀 Zubair Maqsood | Rust | Low-Latency | AI Infra | HFT & Trading Systems
+# 🚀 Zubair Maqsood | TypeScript | AWS | Event Driven Systems 
 
 💡 **Software Engineer specializing in AWS & Event Driven Systems, Cloud Security.** |
 **Other interests include High-Performance Rust, AI Infrastructure, and Low-Latency Trading Systems** |
