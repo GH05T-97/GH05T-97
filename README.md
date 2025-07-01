@@ -1,15 +1,15 @@
 # 🚀 Zubair Maqsood | TypeScript | AWS | Event Driven Systems 
 
-💡 **Software Engineer specializing in TypeScript, Node.js, AWS, Event Driven Systems, Cloud Security.** |
+💡 **Software Engineer specializing in TypeScript, Node.js, AWS, Event Driven Systems.** |
 
-**Other interests include High-Performance Rust, AI Infrastructure, and Low-Latency Trading Systems** |
+**Other interests include High-Performance Rust, AI Infrastructure, Cloud Security and Low-Latency Trading Systems** |
 
 🏆 **Building scalable, high-speed architectures for fintech, HFT, and AI-driven applications.**
 
 ---
 
 ## 🔥 **What I’m Working On**
-🚀 **[Solana Trade Tracker (Rust + Blockchain)](https://github.com/GH05T-97/solana-whale-bot)** – Real-time blockchain trade tracking.
+🚀 **[Cloudscanner (Rust)](https://github.com/GH05T-97/cloudcheck-rs)** – LLM powered cloud scanning tool to optimise cloud security, cost and performance.
 
 🚀 **[HFT Trading Engine (Rust) ](https://github.com/GH05T-97/hft-engine)** – Low-latency order execution engine.
 
@@ -35,7 +35,7 @@
 ---
 
 ## 🚀 **Let’s Connect**
-💼 **Open to fintech, HFT, AI infra roles .**
+💼 **Open to fintech, consulting, AI roles .**
 
 📩 **Reach out for collaboration, consulting, or career opportunities.**
 
