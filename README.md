@@ -8,6 +8,11 @@
 
 ---
 
+## 🔥 **Case Studiesn**
+🚀 **[Enterprise Document Intelligence Platform](https://github.com/GH05T-97/document-intelligence-case-study)** – A RAG-based document processing system architecture which was designed during a strategic consulting engagement for enterprise-scale document analysis and intelligent querying
+
+---
+
 ## 🔥 **What I’m Working On**
 🚀 **[Cloudscanner (Rust)](https://github.com/GH05T-97/cloudcheck-rs)** – LLM powered cloud scanning tool to optimise cloud security, cost and performance.
 
