@@ -8,7 +8,7 @@
 
 ---
 
-## 🔥 **Case Studiesn**
+## 🔥 **Case Studies**
 🚀 **[Enterprise Document Intelligence Platform](https://github.com/GH05T-97/document-intelligence-case-study)** – A RAG-based document processing system architecture which was designed during a strategic consulting engagement for enterprise-scale document analysis and intelligent querying
 
 ---
