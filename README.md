@@ -21,7 +21,7 @@
 ---
 
 ## ⚡ **Technical Interests**
-✅ **Rust + Performance Engineering** – Optimized memory, lock-free concurrency, and async processing.
+✅ **Rust + Go + Performance Engineering** – Optimized memory, lock-free concurrency, and async processing.
 
 ✅ **Low-Latency Networking** – High-performance UDP/TCP for real-time trading.
 
