@@ -18,16 +18,18 @@
 
 🚀 **[HFT Trading Engine (Rust) ](https://github.com/GH05T-97/hft-engine)** – Low-latency order execution engine.
 
+🚀 **[Systems Depth](https://github.com/GH05T-97/systems-depth)** - In Depth Journey to learn Security Engineering Fundamentals with Rust
+
 ---
 
 ## ⚡ **Technical Interests**
-✅ **Rust + Go + Performance Engineering** – Optimized memory, lock-free concurrency, and async processing.
+✅ **Rust + Performance Engineering** – Optimized memory, lock-free concurrency, and async processing.
+
+✅ **Cloud Engineering + Cloud Security** – Event-Driven Architecture, Zero-Day Exploits, Zero-Trust Architecture, Incident Response, Microservices
 
 ✅ **Low-Latency Networking** – High-performance UDP/TCP for real-time trading.
 
 ✅ **AI Infrastructure** – Vector DBs, model optimization, ML
-
-✅ **Cloud Scaling** – AWS Lambda, Event-Driven Architectures, and high-frequency data processing.
 
 ---
 
