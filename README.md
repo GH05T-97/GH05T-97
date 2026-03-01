@@ -1,10 +1,6 @@
-# 🚀 Zubair Maqsood | TypeScript | AWS | Event Driven Systems 
+# 🚀 Zubair Maqsood 
 
-💡 **Software Engineer specializing in TypeScript, Node.js, AWS, Event Driven Systems.** |
-
-**Other interests include High-Performance Rust, AI Infrastructure, Cloud Security and Low-Latency Trading Systems** |
-
-🏆 **Building scalable, high-speed architectures for fintech, HFT, and AI-driven applications.**
+💡 **Senior Software Engineer → Cloud Security & AppSec | Building secure systems at scale with TypeScript, AWS & Rust**
 
 ---
 
